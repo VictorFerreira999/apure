@@ -6,6 +6,14 @@
     width: 160px;
 }
 
+#mainQuemSomos {
+    padding-top: 50px;
+        padding-bottom: 50px;
+        background-color: #f0f0f0; /* Adiciona uma cor de fundo para visualização */
+        text-align: center; /* Centraliza o conteúdo dentro do elemento */
+}
+
+
 .rounded-box {
     border-radius: 10px; /* Define o raio dos cantos */
     background-color: #ff7c25; /* Cor de fundo */
