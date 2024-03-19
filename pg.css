@@ -6,6 +6,8 @@
     width: 160px;
 }
 
+
+
 #mainQuemSomos {
     padding-top: 50px;
         padding-bottom: 50px;
@@ -107,3 +109,13 @@ footer{
     padding-top: 40px;
     padding-bottom: 40px;
 }
+
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+  }
+  .form-control {
+    width: 150px; /* Largura ajustável conforme necessário */
+  }
